@@ -86,7 +86,7 @@ export default {
         },
         //返回医院列表
         back() {
-            this.$router.push({ path: '/hospSet/hosp/list' })
+            this.$router.push({ path: '/views/hosp/list' })
         }
     }
 }
